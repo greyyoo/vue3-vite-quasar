@@ -8,9 +8,9 @@
 
 ## 프론트엔드 커스터마이징에 참고할 페이지들
 
-- Quasar의 Layout Builder(https://quasar.dev/layout-builder)에서 생성한 코드를 복사해 App.vue에 붙여넣기
-- Quasar의 Vue Components(https://quasar.dev/vue-components/)에서 컴포넌트 작성
-- 추가적인 CSS요소 또는 아이콘이 필요할 경우 Quasar의 Using Quasar(https://quasar.dev/start/vite-plugin#using-quasar)에서 configuration
+- Quasar의 Layout Builder(https://quasar.dev/layout-builder) 에서 생성한 코드를 복사해 App.vue에 붙여넣기
+- Quasar의 Vue Components(https://quasar.dev/vue-components/) 에서 컴포넌트 작성
+- 추가적인 CSS요소 또는 아이콘이 필요할 경우 Quasar의 Using Quasar(https://quasar.dev/start/vite-plugin#using-quasar) 에서 configuration
 - 아름다운 색상 조합을 위한 Material Theme Builder(https://material-foundation.github.io/material-theme-builder/#/custom)
 
 ## 백엔드
